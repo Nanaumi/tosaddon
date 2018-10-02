@@ -15,4 +15,4 @@ EXAMPLES:
 
 DESCRIPTION: [Excrulon's Market Names](https://github.com/Excrulon/Tree-of-Savior-Addons/) fixed for new market ([iTOS patch 2018-09-04 [rank 10]](https://treeofsavior.com/page/news/view.php?n=1471)). **All credits to Excrulon's and IMC's code**.
 
-![marketnames example](https://github.com/Nanaumi/tosaddon/raw/master/images/marketnames.gif "Market Names example")
+![marketnames example](https://github.com/Nanaumi/tosaddon/raw/master/images/marketnames.png "Market Names example")
